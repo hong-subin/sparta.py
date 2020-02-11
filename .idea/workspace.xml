@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="525de793-2d1b-4ca5-b149-6c5bd3b40d72" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1bBZrsKOsipytJVhxoNQHV992" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.music">
+    <configuration name="MAIN" type="PythonConfigurationType" factoryName="Python">
+      <module name="sparta.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="database" type="PythonConfigurationType" factoryName="Python">
+      <module name="sparta.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="movie" type="PythonConfigurationType" factoryName="Python">
+      <module name="sparta.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="music" type="PythonConfigurationType" factoryName="Python">
+      <module name="sparta.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/music.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="naver_music" type="PythonConfigurationType" factoryName="Python">
+      <module name="sparta.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_music_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web" type="PythonConfigurationType" factoryName="Python">
+      <module name="sparta.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.movie" />
+      <item itemvalue="Python.web" />
+      <item itemvalue="Python.music" />
+      <item itemvalue="Python.naver_music" />
+      <item itemvalue="Python.MAIN" />
+      <item itemvalue="Python.database" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="525de793-2d1b-4ca5-b149-6c5bd3b40d72" name="Default Changelist" comment="" />
+      <created>1580216412967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580216412967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="178" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580985801923">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="252" y="178" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.949@0.23.1680.949" timestamp="1580985801923" />
+    <state x="252" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.952@0.23.1680.952" timestamp="1580820042521" />
+    <state width="1416" height="241" key="GridCell.Tab.0.bottom" timestamp="1581404350582">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1416" height="241" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1580995084076" />
+    <state width="1416" height="241" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1581404350582" />
+    <state width="1416" height="241" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1580987417508" />
+    <state width="1416" height="241" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1580822742464" />
+    <state width="1416" height="241" key="GridCell.Tab.0.center" timestamp="1581404350581">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1416" height="241" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1580995084073" />
+    <state width="1416" height="241" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1581404350581" />
+    <state width="1416" height="241" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1580987417507" />
+    <state width="1416" height="241" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1580822742463" />
+    <state width="1416" height="241" key="GridCell.Tab.0.left" timestamp="1581404350580">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1416" height="241" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1580995084073" />
+    <state width="1416" height="241" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1581404350580" />
+    <state width="1416" height="241" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1580987417507" />
+    <state width="1416" height="241" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1580822742463" />
+    <state width="1416" height="241" key="GridCell.Tab.0.right" timestamp="1581404350581">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1416" height="241" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1580995084075" />
+    <state width="1416" height="241" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1581404350581" />
+    <state width="1416" height="241" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1580987417508" />
+    <state width="1416" height="241" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1580822742464" />
+    <state width="1379" height="298" key="GridCell.Tab.1.bottom" timestamp="1580218351530">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1379" height="298" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1580218351530" />
+    <state width="1379" height="298" key="GridCell.Tab.1.center" timestamp="1580218351529">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1379" height="298" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1580218351529" />
+    <state width="1379" height="298" key="GridCell.Tab.1.left" timestamp="1580218351529">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1379" height="298" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1580218351529" />
+    <state width="1379" height="298" key="GridCell.Tab.1.right" timestamp="1580218351530">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1379" height="298" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1580218351530" />
+    <state x="283" y="156" key="SettingsEditor" timestamp="1580820077171">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="283" y="156" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1580388653399" />
+    <state x="283" y="156" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1580820077171" />
+    <state x="519" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1581402249236">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="519" y="329" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1581402249236" />
+    <state x="519" y="330" key="com.intellij.ide.util.TipDialog/0.23.1680.949@0.23.1680.949" timestamp="1580973648059" />
+  </component>
+</project>
